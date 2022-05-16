@@ -1,25 +1,25 @@
-/* Autor: Andriks Imanol Ruiz Mart韓ez, Realizado: 03/02/2022
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 03/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructurada
 Ciclo: 01/2022
 
-Este es un programa en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables enteras y flotantes
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
+    -El uso de include para las librer铆as
     -Condicionar a flotante
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 */	
 #include <stdio.h>
 int main() {
-	//Declaraci髇 de variable
+	//Declaraci贸n de variable
 	int B, b, h;
 	float area;
 	//Entradas de Datos
-	printf("Calcular el 醨ea del Trapecio \n");
+	printf("Calcular el 谩rea del Trapecio \n");
 	printf("Introduzca B:");
 	scanf("%d", &B);
 	printf("Introduzca b:");
